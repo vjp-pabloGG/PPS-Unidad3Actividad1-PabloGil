@@ -34,13 +34,17 @@ Para ello tan sólo tenemos que realizar los siguientes pasos:
 > Las máquinas vulnerables que hemos creado son:
 >> **DVWA**.  A esta máquina accedemos a través del puerto **8001**. Es posible que tarde un poco en crear la base de datos o sea que  _un poco de paciencia_ si da error en la BBDD.
 >>
->> Por lo tanto accedemos a ella en el enlace: <localhost:8001>. ![](images/DVWA1.png)
+>> Por lo tanto accedemos a ella en el enlace: <localhost:8001>.
 >>
->> Podemos acceder con usuario **Admin** y sin contraseña... -o con el que queramos- 
+>> ![](images/DVWA1.png)
+>>
+>> Podemos acceder con usuario **Admin** y sin contraseña... -o con el que queramos-
+>>
+>> >> ![](images/DVWA2.png)
 >>
 >> Al igual que en bWAPP que veremos a continuación, el primer paso será crear la Base de Datos. 
 >>
->> ![](images/1.2.png)
+>> ![](images/DVWA2.png)
 >> ![](images/DVWA3.png)
 >>
 >> Ya con el usuario **admin* y la contraseña **password** podemos hacer a completar los retos que queramos.
