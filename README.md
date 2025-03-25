@@ -40,15 +40,16 @@ Para ello tan sólo tenemos que realizar los siguientes pasos:
 >>
 >> Podemos acceder con usuario **Admin** y sin contraseña... -o con el que queramos-
 >>
->> >> ![](images/DVWA2.png)
+>> ![](images/DVWA2.png)
 >>
 >> Al igual que en bWAPP que veremos a continuación, el primer paso será crear la Base de Datos. 
 >>
->> ![](images/DVWA2.png)
+>> ![](images/DVWA5.png)
 >>
 >> Ya con el usuario **admin* y la contraseña **password** podemos hacer a completar los retos que queramos.
 >>
 >> ![](images/DVWA3.png)
+>>
 >> ![](images/DVWA4.png)
 >>
 >---
