@@ -1,4 +1,4 @@
-# PPS-Unidad1Actividad2-JoseMi
+# PPS-Unidad3Actividad1-PabloGil
 Actividad 1 de la Unidad 3 de Puesta en Producción Segura. Creación de entornos de pruebas. 
 
 Tenemos como objetivo:
@@ -20,7 +20,7 @@ Entre las muchas que hay podemos encontrar los siguientes proyectos:
 
 Para ello tan sólo tenemos que realizar los siguientes pasos:
 1. Crea una carpeta con nombre entorno-vulnerables-tunombre
-  
+![](images/1.2.png)
 3. Coloca dentro de ella el archivo [docker-compose.yml](./entornoMaquinasInseguras/docker-compose.yml) que tienes en la carpeta entornoMaquinasInseguras de este repositorio: 
 4. Levanta el escenario multicontedor con `docker-compose up -d`
 
@@ -33,7 +33,7 @@ Para ello tan sólo tenemos que realizar los siguientes pasos:
 >>
 >> Al igual que en bWAPP que veremos a continuación, el primer paso será crear la Base de Datos. 
 >>
->> ![](images/DVWA2.png)
+>> ![](images/1.2.png)
 >> ![](images/DVWA3.png)
 >>
 >> Ya con el usuario **admin* y la contraseña **password** podemos hacer a completar los retos que queramos.
