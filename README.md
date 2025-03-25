@@ -48,7 +48,6 @@ Para ello tan sólo tenemos que realizar los siguientes pasos:
 >>
 >> Ya con el usuario **admin* y la contraseña **password** podemos hacer a completar los retos que queramos.
 >>
->> ![](images/DVWA3.png)
 >>
 >> ![](images/DVWA4.png)
 >>
