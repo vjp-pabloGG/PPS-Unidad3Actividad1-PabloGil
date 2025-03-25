@@ -29,6 +29,8 @@ Para ello tan sólo tenemos que realizar los siguientes pasos:
 
 3. Levanta el escenario multicontedor con `docker-compose up -d`
 
+![](images/3.2.png)
+
 > Las máquinas vulnerables que hemos creado son:
 >> **DVWA**.  A esta máquina accedemos a través del puerto **8001**. Es posible que tarde un poco en crear la base de datos o sea que  _un poco de paciencia_ si da error en la BBDD.
 >>
