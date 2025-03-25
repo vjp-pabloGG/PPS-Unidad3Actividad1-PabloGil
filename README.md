@@ -118,6 +118,9 @@ Veamos:
 - Clonamos el repositorio en nuestro equipo local.
 - Entramos dentro de la carpeta del proyecto.
 - Hacemos una copia del fichero sample.env en un fichero llamado .env.
+
+![](images/Env1.png)
+
 Démonos cuenta que este fichero es el que contiene las variables que se van a utilizar en las diferentes máquinas que vamos a crear. si lo abrimos, tiene este aspecto: 
 
 ~~~
