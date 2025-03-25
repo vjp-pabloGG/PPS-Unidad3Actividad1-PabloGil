@@ -45,9 +45,10 @@ Para ello tan sólo tenemos que realizar los siguientes pasos:
 >> Al igual que en bWAPP que veremos a continuación, el primer paso será crear la Base de Datos. 
 >>
 >> ![](images/DVWA2.png)
->> ![](images/DVWA3.png)
 >>
 >> Ya con el usuario **admin* y la contraseña **password** podemos hacer a completar los retos que queramos.
+>>
+>> ![](images/DVWA3.png)
 >> ![](images/DVWA4.png)
 >>
 >---
