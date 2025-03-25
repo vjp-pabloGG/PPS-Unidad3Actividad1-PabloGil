@@ -20,9 +20,10 @@ Entre las muchas que hay podemos encontrar los siguientes proyectos:
 
 Para ello tan sólo tenemos que realizar los siguientes pasos:
 1. Crea una carpeta con nombre entorno-vulnerables-tunombre
+![](images/2.2.png)
+2. Coloca dentro de ella el archivo [docker-compose.yml](./entornoMaquinasInseguras/docker-compose.yml) que tienes en la carpeta entornoMaquinasInseguras de este repositorio:
 ![](images/1.2.png)
-3. Coloca dentro de ella el archivo [docker-compose.yml](./entornoMaquinasInseguras/docker-compose.yml) que tienes en la carpeta entornoMaquinasInseguras de este repositorio: 
-4. Levanta el escenario multicontedor con `docker-compose up -d`
+3. Levanta el escenario multicontedor con `docker-compose up -d`
 
 > Las máquinas vulnerables que hemos creado son:
 >> **DVWA**.  A esta máquina accedemos a través del puerto **8001**. Es posible que tarde un poco en crear la base de datos o sea que  _un poco de paciencia_ si da error en la BBDD.
