@@ -156,9 +156,10 @@ Ya si podemos levantar el escenario multicontenedor:
 docker-compose up -d
 ~~~
 
+En resúmen, el docker.compose.yml trabaja en conjunto con el archivo .env para generar las variables de entorno de los servicios especificados en el compose. Podemos desde modificar puertos que se vayan a utilizar hasta las credenciales de los usuarios de dichos servicios.
+
 Y si todo va bien, tendremos nuestro escenario levantado:
 ![](images/composeup.png)
-
 
 > Para 
 >[https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje](https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje)
