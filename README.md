@@ -119,8 +119,6 @@ Veamos:
 - Entramos dentro de la carpeta del proyecto.
 - Hacemos una copia del fichero sample.env en un fichero llamado .env.
 
-![](images/Env1.png)
-
 Démonos cuenta que este fichero es el que contiene las variables que se van a utilizar en las diferentes máquinas que vamos a crear. si lo abrimos, tiene este aspecto: 
 
 ~~~
@@ -210,6 +208,9 @@ Se levantan tres servicios o contenedores diferentes:
 2. Servicio __database__ que contrendrá la base de datos mySQL8.
 3. Un servidor web para administrar la Base de datos: PHPMyAdmin.
 4. Una base de datos no SQL: Redis, que se suele utilizar como caché de aplicaciones.
+
+![](images/2.7.png)
+
 Ya si podemos levantar el escenario multicontenedor:
 ~~~
 docker-compose up -d
